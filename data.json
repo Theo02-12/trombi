@@ -1,0 +1,173 @@
+[
+  {
+    "firstName": "Vivien",
+    "lastName": "Gajac",
+    "links": [
+      { "name": "Github", "url": "https://github.com/viviengajac" },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/vivien-gajac-b43a0b2a2/"
+      }
+    ],
+    "stacks": ["HTML", "CSS", "JavaScript", "PHP", "Symfony"],
+    "location": [50.735819, 1.607754],
+    "city": "Boulogne-sur-Mer",
+    "picture": "vivien.jpg"
+  },
+  {
+    "firstName": "Théo",
+    "lastName": "Couvelard",
+    "links": [
+      { "name": "Github", "url": "https://github.com/Theo02-12" },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/th%C3%A9o-couvelard-4089111b5/"
+      }
+    ],
+    "stacks": ["Node.js", "Express", "Next.js", "mongoDB", "React.js"],
+    "location": [50.730448, 1.707655],
+    "city": "La Capelle-lès-Boulogne",
+    "picture": "theo-c.jpg"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Truant",
+    "links": [
+      { "name": "Github", "url": "https://github.com/notlimai" },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/william-truant-b57b92244/"
+      }
+    ],
+    "stacks": ["Laravel", "PHP", "Symfony", "React.js"],
+    "location": [50.725388, 1.61462],
+    "city": "Boulogne-sur-Mer",
+    "picture": "william.jpg"
+  },
+  {
+    "firstName": "Kévin",
+    "lastName": "Ledez",
+    "links": [
+      { "name": "Github", "url": "https://github.com/kevin-ledez" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/kevin-ledez/" }
+    ],
+    "stacks": ["Angular", "Symfony", "MySQL"],
+    "location": [50.66756, 1.833074],
+    "city": "Desvres",
+    "picture": "kevin.jpg"
+  },
+  {
+    "firstName": "Karl",
+    "lastName": "Gavois",
+    "links": [
+      { "name": "Github", "url": "https://github.com/Karl-Gavois" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/karl-gavois/" }
+    ],
+    "stacks": ["React.js", "Symfony"],
+    "location": [50.714521, 1.584998],
+    "city": "Outreau",
+    "picture": "karl.jpg"
+  },
+  {
+    "firstName": "Geoffrey",
+    "lastName": "Noel",
+    "links": [
+      { "name": "Github", "url": "https://github.com/Geoffrey184" },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/geoffrey-noel-093683269/"
+      }
+    ],
+    "stacks": ["React.js", "Symfony", "Python"],
+    "location": [50.812552, 1.701577],
+    "city": "Marquise",
+    "picture": "geoffrey.jpg"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Buffet",
+    "links": [
+      { "name": "Github", "url": "https://github.com/JunkBezoul" },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/alex-b-945997271/"
+      }
+    ],
+    "stacks": ["React.js", "Node.js", "Express"],
+    "location": [50.728104, 1.627176],
+    "city": "Boulogne-sur-Mer",
+    "picture": "alex.jpg"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Da Silva Rocha",
+    "links": [
+      { "name": "Github", "url": "https://github.com/Ericdsr" },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/eric-da-silva-rocha/"
+      }
+    ],
+    "stacks": ["React.js", "Symfony"],
+    "location": [50.703531, 1.584015],
+    "city": "Outreau",
+    "picture": "eric.png"
+  },
+  {
+    "firstName": "Théo",
+    "lastName": "Duflos",
+    "links": [
+      { "name": "Github", "url": "https://github.com/Yokokorico" },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/th%C3%A9o-duflos-8625a8262/"
+      }
+    ],
+    "stacks": [".NET", "Java", "Angular"],
+    "location": [50.681806, 1.625807],
+    "city": "Saint-Etienne-au-Mont",
+    "picture": "theo-d.jpg"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Merlin",
+    "links": [
+      { "name": "Github", "url": "https://github.com/Merlinovitch" },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/alexandre-merlin-82a395a8/"
+      }
+    ],
+    "stacks": ["React.js", ".NET"],
+    "location": [50.661134, 3.044335],
+    "city": "Saint-André-lez-Lille",
+    "picture": "alexandre.jpg"
+  },
+  {
+    "firstName": "Jean-Baptiste",
+    "lastName": "Lavisse",
+    "links": [
+      { "name": "Github", "url": "https://github.com/jblavisse" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/jblavisse" }
+    ],
+    "stacks": ["Next.JS", "Vue.JS", "Express", "Symfony", "React.js"],
+    "location": [50.669348, 2.287302],
+    "city": "Ecques",
+    "picture": "jb.jpeg"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Herbez",
+    "links": [
+      { "name": "Github", "url": "https://github.com/nicolas-herbez" },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/nicolas-herbez-hdf/"
+      }
+    ],
+    "stacks": ["Angular", "Symfony", "MySQL"],
+    "location": [50.638575, 1.746311],
+    "city": "Samer",
+    "picture": "nico.jpeg"
+  }
+]
