@@ -18,7 +18,7 @@ const res = fetch("./data.json")
   .then((data) => {
     data.forEach((element) => {
       var redBorderedIcon = L.icon({
-        iconUrl: `./pictures/${element.picture}`,
+        iconUrl: `pictures/${element.picture}`,
         iconSize: [38, 38], // taille de l'icône
         iconAnchor: [19, 19], // point d'ancrage de l'icône
         popupAnchor: [0, -19], // point d'ancrage de la popup
@@ -33,9 +33,9 @@ const res = fetch("./data.json")
       var popupContent = `
       <div class="max-w-sm rounded overflow-hidden shadow-lg">
       <div class="flex justify-center">
-      <img class="w-32 h-32 rounded-full" src="/pictures/${
+      <img class="w-32 h-32 rounded-full" src="pictures/${
         element.picture
-      }" alt="Sunset in the mountains">
+      }" alt=${element.firstName}>
       </div>
       <div class="px-6">
         <div class="font-bold flex flex-col items-center text-xl my-2 text-center">${
@@ -54,7 +54,7 @@ const res = fetch("./data.json")
         .map(
           (item) =>
             `
-            <span class="cursor-pointer flex justify-center inline-block hover:bg-gray-300 bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700"><img class="w-8 h-8 m-1" src="./icons/${
+            <span class="cursor-pointer flex justify-center inline-block hover:bg-gray-300 bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700"><img class="w-8 h-8 m-1" src="icons/${
               item === ".NET" ? "dotnet" : item
             }.svg"></span> `
         )
