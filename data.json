@@ -150,7 +150,7 @@
       { "name": "Github", "url": "https://github.com/jblavisse" },
       { "name": "LinkedIn", "url": "https://www.linkedin.com/in/jblavisse" }
     ],
-    "stacks": ["Next.JS", "Vue.JS", "Express", "Symfony", "React.js"],
+    "stacks": ["Next.js", "Vue.JS", "Express", "Symfony", "React.js"],
     "location": [50.669348, 2.287302],
     "city": "Ecques",
     "picture": "jb.jpeg"
